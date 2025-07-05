@@ -34,6 +34,8 @@
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
 | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5\&logoColor=white) <br> ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3\&logoColor=white) <br> ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript\&logoColor=black) <br>|![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)<br> ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2b%2b&logoColor=white) <br> ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php\&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql\&logoColor=white) <br>![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-F89820?style=flat&logo=mysql&logoColor=white) <br> |![ESP8266](https://img.shields.io/badge/ESP8266-Microcontroller-4B8BBE?style=flat&logo=powerbi&logoColor=white) <br>![RFID RC522](https://img.shields.io/badge/RFID_RC522-Module-0A66C2?style=flat&logo=bluetooth&logoColor=white)
 
+---
+
 ## 🖼️ Screenshots
 
 <img src="assets/login.png" alt="Login Page" width="100%" style="border-radius: 12px; margin-bottom: 20px;" />
@@ -60,7 +62,7 @@
 
 <img src="assets/Screenshot from 2024-03-18 21-43-06.png" alt="Screenshot 2" width="100%" style="border-radius: 12px; margin-bottom: 20px;" />
 
-
+---
 
 ## 🙋‍♂️ Author
 
@@ -73,10 +75,18 @@
 - 💼 [LinkedIn](https://www.linkedin.com/in/senthilnathan17092003/)
 - 📷 [Instagram](https://instagram.com/gone_beta_)
 
+
+
 ---
 
 ## 📄 License
 
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
+This project is open-source and distributed under the MIT License.
 
+---
+
+## 📞 Contact
+Senthil Nathan (Creator)<br>
+Email: senthilnathans1730@gmail.com <br>
+Phone: +91 6381200750
 
