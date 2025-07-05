@@ -36,7 +36,7 @@
 
 ---
 
-## 📷 Project Demo
+## 🖼️ Screenshots
 
 <img src="https://github.com/senthilnathan1730/rfid-attendance-system/assets/demo1.gif" width="300" />
 <img src="https://github.com/senthilnathan1730/rfid-attendance-system/assets/demo2.gif" width="300" />
