@@ -67,13 +67,27 @@
 ## 🙋‍♂️ Author
 
 ### Senthil Nathan  
-**Cybersecurity Analyst | Linux Enthusiast | IoT Developer**
+**Cybersecurity Analyst | Linux Enthusiast | Ethical Hacker**
 
-- 🔗 [Portfolio Website](https://senthil.zeal.ninja)
-- 📧 [senthilnathans1730@gmail.com](mailto:senthilnathans1730@gmail.com)
-- 🐦 [Twitter: @senthil1730](https://twitter.com/senthil1730)
-- 💼 [LinkedIn](https://www.linkedin.com/in/senthilnathan17092003/)
-- 📷 [Instagram](https://instagram.com/gone_beta_)
+<a href="https://senthil.zeal.ninja" target="_blank" style="margin-bottom:20px;">
+  <img src="https://img.shields.io/badge/Portfolio-senthil.zeal.ninja-blue?style=for-the-badge&logo=Firefox&logoColor=white" alt="Portfolio" >
+</a><br>
+
+<a href="mailto:senthilnathans1730@gmail.com"  style="margin-bottom:20px;">
+  <img src="https://img.shields.io/badge/Email-senthilnathans1730@gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a><br>
+<a href="https://twitter.com/senthil1730" target="_blank"  style="margin-bottom:20px;">
+  <img src="https://img.shields.io/badge/Twitter-@senthil1730-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+</a><br>
+
+<a href="https://www.linkedin.com/in/senthilnathan17302003" target="_blank"  style="margin-bottom:20px;">
+ <img src="https://img.shields.io/badge/LinkedIn-Senthil Nathan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a><br>
+
+<a href="https://instagram.com/gone_beta_" target="_blank"  style="margin-bottom:20px;">
+  <img src="https://img.shields.io/badge/Instagram-@gone_beta_-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+</a><br>
+
 
 
 
@@ -86,7 +100,16 @@ This project is open-source and distributed under the MIT License.
 ---
 
 ## 📞 Contact
-Senthil Nathan (Creator)<br>
-Email: senthilnathans1730@gmail.com <br>
-Phone: +91 6381200750
+<a href="https://senthil.zeal.ninja" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-senthil.zeal.ninja-blue?style=for-the-badge&logo=Firefox&logoColor=white" alt="Portfolio">
+</a>
+<br>
+<a href="mailto:senthilnathans1730@gmail.com">
+  <img src="https://img.shields.io/badge/Email-senthilnathans1730@gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
+ <br>
+<a href="tel:+916381200750">
+  <img src="https://img.shields.io/badge/Phone-6381200750-brightgreen?style=for-the-badge&logo=phone&logoColor=white" alt="Phone Number">
+</a>
+
 
