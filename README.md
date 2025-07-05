@@ -38,7 +38,7 @@
 
 ## 🖼️ Screenshots
 
-<img align="right" alt="RFID NodeMCU" width="400" src="assets/Screenshot from 2024-03-24 15-53-44">
+<img align="right" alt="RFID NodeMCU" width="400" src="assets/login.png">
 
 
 ---
