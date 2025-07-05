@@ -80,7 +80,7 @@
   <img src="https://img.shields.io/badge/Twitter-@senthil1730-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
 </a><br>
 
-<a href="https://www.linkedin.com/in/senthilnathan17302003" target="_blank"  style="margin-bottom:20px;">
+<a href="https://www.linkedin.com/in/senthilnathan17092003" target="_blank"  style="margin-bottom:20px;">
  <img src="https://img.shields.io/badge/LinkedIn-Senthil Nathan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a><br>
 
