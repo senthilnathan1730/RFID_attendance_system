@@ -45,3 +45,24 @@
 
 ## 📁 Folder Structure
 
+
+
+---
+## 🙋‍♂️ Author
+
+### Senthil Nathan  
+**Cybersecurity Analyst | Linux Enthusiast | Ethical Hacker**
+
+- 🔗 [Portfolio Website](https://senthil.zeal.ninja)
+- 📧 [senthilnathans1730@gmail.com](mailto:senthilnathans1730@gmail.com)
+- 🐦 [Twitter: @senthil1730](https://twitter.com/senthil1730)
+- 💼 [LinkedIn](https://www.linkedin.com/in/senthil-nathan/)
+- 📷 [Instagram](https://instagram.com/gone_beta_)
+
+---
+
+## 📄 License
+
+This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
+
+
