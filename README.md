@@ -38,8 +38,8 @@
 
 ## 🖼️ Screenshots
 
-<img src="https://github.com/senthilnathan1730/rfid-attendance-system/assets/demo1.gif" width="300" />
-<img src="https://github.com/senthilnathan1730/rfid-attendance-system/assets/demo2.gif" width="300" />
+<img align="right" alt="RFID NodeMCU" width="400" src="assets/Screenshot from 2024-03-24 15-53-44">
+
 
 ---
 
