@@ -2,8 +2,8 @@
 <h3 align="center">A Smart and Secure Way to Track Attendance using NodeMCU & RFID</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/github/languages/top/senthilnathan1730/rfid-attendance-system?style=for-the-badge" alt="Top Language">
-  <img src="https://img.shields.io/github/last-commit/senthilnathan1730/rfid-attendance-system?style=for-the-badge" alt="Last Commit">
+  <img src="https://img.shields.io/github/languages/top/senthilnathan1730/RFID_attendance_system?style=for-the-badge" alt="Top Language">
+  <img src="https://img.shields.io/github/last-commit/senthilnathan1730/RFID_attendance_system?style=for-the-badge" alt="Last Commit">
 </p>
 
   <img align="right" width="500"  src="assets/rfid.jpg">
@@ -29,11 +29,10 @@
 
 ## 🧰 Tech Stack
 
-| Hardware         | Backend     | Frontend       | Database     |
-|------------------|-------------|----------------|--------------|
-| NodeMCU ESP8266  | Arduino C++ | HTML + CSS     | MySQL        |
-| RFID RC522       | PHP         | Bootstrap      | phpMyAdmin   |
 
+| 🖥️ Frontend                                                                                                                                                                                                                                                                                                                                                                    | 🧠 Backend                                                                                                                                                                                                                                             | 💾 Database                                                                                                                                                             | ⚙️ Hardware                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5\&logoColor=white) <br> ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3\&logoColor=white) <br> ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript\&logoColor=black) <br>|![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)<br> ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2b%2b&logoColor=white) <br> ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php\&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql\&logoColor=white) <br>![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-F89820?style=flat&logo=mysql&logoColor=white) <br> |![ESP8266](https://img.shields.io/badge/ESP8266-Microcontroller-4B8BBE?style=flat&logo=powerbi&logoColor=white) <br>![RFID RC522](https://img.shields.io/badge/RFID_RC522-Module-0A66C2?style=flat&logo=bluetooth&logoColor=white)
 
 ## 🖼️ Screenshots
 
@@ -61,5 +60,23 @@
 
 <img src="assets/Screenshot from 2024-03-18 21-43-06.png" alt="Screenshot 2" width="100%" style="border-radius: 12px; margin-bottom: 20px;" />
 
+
+
+## 🙋‍♂️ Author
+
+### Senthil Nathan  
+**Cybersecurity Analyst | Linux Enthusiast | IoT Developer**
+
+- 🔗 [Portfolio Website](https://senthil.zeal.ninja)
+- 📧 [senthilnathans1730@gmail.com](mailto:senthilnathans1730@gmail.com)
+- 🐦 [Twitter: @senthil1730](https://twitter.com/senthil1730)
+- 💼 [LinkedIn](https://www.linkedin.com/in/senthilnathan17092003/)
+- 📷 [Instagram](https://instagram.com/gone_beta_)
+
+---
+
+## 📄 License
+
+This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
 
 
