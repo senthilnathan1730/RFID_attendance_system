@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/github/last-commit/senthilnathan1730/rfid-attendance-system?style=for-the-badge" alt="Last Commit">
 </p>
 
-<img align="right" alt="rfid" width="400" src="https://img.freepik.com/free-vector/flat-illustration-contactless-technology_23-2149335139.jpg?w=740&t=st=1686999181~exp=1686999781~hmac=b4a55669eb8d80d9ac7e15c87aab319dbf91b3d0f5b986c1a95f364c929de7e1">
+  <img align="right" width="500"  src="assets/rfid.jpg">
 
 <section style="background-color: #0f172a; color: #f1f5f9; padding: 2rem; border-radius: 1rem; max-width: 800px; margin: auto;">
   <h2 style="color: #22c55e; font-size: 2rem; font-weight: bold; margin-bottom: 1rem;">🛠️ Project Overview</h2>
@@ -35,19 +35,31 @@
 | RFID RC522       | PHP         | Bootstrap      | phpMyAdmin   |
 
 
- ## 🖼️ Screenshots
+## 🖼️ Screenshots
 
-<p><img align="left" src="assets/login.png"></p>
+<img src="assets/login.png" alt="Login Page" width="100%" style="border-radius: 12px; margin-bottom: 20px;" />
 
-<p><img align="left" src="assets/project1.png">.</p>
+<img src="assets/project1.png" alt="Dashboard View" width="100%" style="border-radius: 12px; margin-bottom: 20px;" />
 
-<p><img align="left" src="assets/user-register.png">.</p>
+<img src="assets/user-register.png" alt="User Registration" width="100%" style="border-radius: 12px; margin-bottom: 20px;" />
 
-<img align="left" src="assets/Picture1.png">.
+<img src="assets/Picture1.png" alt="Attendance List" width="100%" style="border-radius: 12px; margin-bottom: 20px;" />
 
+<img src="assets/Picture3.jpg" alt="Log View" width="100%" style="border-radius: 12px; margin-bottom: 20px;" />
 
-<p><img align="left" src="assets/Picture3.png">.</p>
+<img src="assets/student-list.png" alt="Student List" width="100%" style="border-radius: 12px; margin-bottom: 20px;" />
 
+<img src="assets/Picture2.png" alt="Scanned Record" width="100%" style="border-radius: 12px; margin-bottom: 20px;" />
+
+<img src="assets/dep-bca.png" alt="Department BCA View" width="100%" style="border-radius: 12px; margin-bottom: 20px;" />
+
+<img src="assets/search-rfid.png" alt="Search RFID" width="100%" style="border-radius: 12px; margin-bottom: 20px;" />
+
+<img src="assets/edit-user.png" alt="Edit User" width="100%" style="border-radius: 12px; margin-bottom: 20px;" />
+
+<img src="assets/Screenshot from 2024-03-18 21-42-56.png" alt="Screenshot 1" width="100%" style="border-radius: 12px; margin-bottom: 20px;" />
+
+<img src="assets/Screenshot from 2024-03-18 21-43-06.png" alt="Screenshot 2" width="100%" style="border-radius: 12px; margin-bottom: 20px;" />
 
 
 
