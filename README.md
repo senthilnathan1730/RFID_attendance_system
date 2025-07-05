@@ -34,37 +34,20 @@
 | NodeMCU ESP8266  | Arduino C++ | HTML + CSS     | MySQL        |
 | RFID RC522       | PHP         | Bootstrap      | phpMyAdmin   |
 
----
 
-## 🖼️ Screenshots
-<img align="right" width="400" src="assets/login.png" alt="Login Page">
+ ## 🖼️ Screenshots
 
+<p><img align="left" src="assets/login.png"></p>
 
+<p><img align="left" src="assets/project1.png">.</p>
 
+<p><img align="left" src="assets/user-register.png">.</p>
 
-
----
-
-## 📁 Folder Structure
+<img align="left" src="assets/Picture1.png">.
 
 
+<p><img align="left" src="assets/Picture3.png">.</p>
 
----
-## 🙋‍♂️ Author
 
-### Senthil Nathan  
-**Cybersecurity Analyst | Linux Enthusiast | Ethical Hacker**
-
-- 🔗 [Portfolio Website](https://senthil.zeal.ninja)
-- 📧 [senthilnathans1730@gmail.com](mailto:senthilnathans1730@gmail.com)
-- 🐦 [Twitter: @senthil1730](https://twitter.com/senthil1730)
-- 💼 [LinkedIn](https://www.linkedin.com/in/senthil-nathan/)
-- 📷 [Instagram](https://instagram.com/gone_beta_)
-
----
-
-## 📄 License
-
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
 
 
